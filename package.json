@@ -1,20 +1,30 @@
 {
-  "name": "emoji-awesome",
-  "version": "0.0.1",
-  "homepage": "https://zeeshanu.github.io/emoji-awesome/",
-  "author": "Zeeshan Ahmed <ziishaned@gmail.com> (https://zeeshanu.github.io/)",
-  "description": "Cross platform, easy to use, no-javascript solution for the emoji awesomeness 😎",
+  "name": "@ychily/emoji-awesome",
+  "version": "1.0.0",
+  "homepage": "https://opensource.ychily.com",
+  "author": "Pascal Raszyk <pascal@raszyk.de> (https://pascalraszyk.de)",
+  "description": "Emojis. Without JS. Automatically updating. All vendors.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zeeshanu/emoji-awesome.git"
+    "url": "git+https://github.com/YCHILY/emoji-awesome"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zeeshanu/emoji-awesome/issues"
+    "url": "https://github.com/YCHILY/emoji-awesome"
   },
   "keywords": [
+    "ychily",
     "css",
     "emoji",
-    "emoji-awesome"
-  ]
+    "emoji-awesome",
+    "spritesheet"
+  ],
+  "dependencies": {
+    "axios": "^0.18.0",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-coffee": "^2.0.0",
+    "node-spritesheet": "^0.4.2",
+    "puppeteer": "^1.9.0",
+    "rimraf": "^2.6.2"
+  }
 }

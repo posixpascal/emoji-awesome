@@ -1,0 +1,9137 @@
+.ea {
+  background: url( 'apple.emojis.png' ) no-repeat;
+  background-size: 4800px 4680px;
+}
+
+.ea.ideograph_advantage {
+  width: 120px;
+  height: 120px;
+  background-position: 0px 0px;
+}
+
+.ea.+1 {
+  width: 120px;
+  height: 120px;
+  background-position: -120px 0px;
+}
+
+.ea.100 {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -120px;
+}
+
+.ea.1234 {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -120px;
+}
+
+.ea.8ball {
+  width: 120px;
+  height: 120px;
+  background-position: -240px 0px;
+}
+
+.ea.a {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -120px;
+}
+
+.ea.ab {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -240px;
+}
+
+.ea.abc {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -240px;
+}
+
+.ea.abcd {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -240px;
+}
+
+.ea.accept {
+  width: 120px;
+  height: 120px;
+  background-position: -360px 0px;
+}
+
+.ea.admission-tickets {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -120px;
+}
+
+.ea.aerial_tramway {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -240px;
+}
+
+.ea.airplane-arriving {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -360px;
+}
+
+.ea.airplane-departure {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -360px;
+}
+
+.ea.airplane {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -360px;
+}
+
+.ea.alarm_clock {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -360px;
+}
+
+.ea.alembic {
+  width: 120px;
+  height: 120px;
+  background-position: -480px 0px;
+}
+
+.ea.alien {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -120px;
+}
+
+.ea.ambulance {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -240px;
+}
+
+.ea.amphora {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -360px;
+}
+
+.ea.anchor {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -480px;
+}
+
+.ea.angel {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -480px;
+}
+
+.ea.anger {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -480px;
+}
+
+.ea.angry {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -480px;
+}
+
+.ea.anguished {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -480px;
+}
+
+.ea.ant {
+  width: 120px;
+  height: 120px;
+  background-position: -600px 0px;
+}
+
+.ea.apple {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -120px;
+}
+
+.ea.aquarius {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -240px;
+}
+
+.ea.aries {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -360px;
+}
+
+.ea.arrow_backward {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -480px;
+}
+
+.ea.arrow_double_down {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -600px;
+}
+
+.ea.arrow_double_up {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -600px;
+}
+
+.ea.arrow_down {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -600px;
+}
+
+.ea.arrow_down_small {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -600px;
+}
+
+.ea.arrow_forward {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -600px;
+}
+
+.ea.arrow_heading_down {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -600px;
+}
+
+.ea.arrow_heading_up {
+  width: 120px;
+  height: 120px;
+  background-position: -720px 0px;
+}
+
+.ea.arrow_left {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -120px;
+}
+
+.ea.arrow_lower_left {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -240px;
+}
+
+.ea.arrow_lower_right {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -360px;
+}
+
+.ea.arrow_right {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -480px;
+}
+
+.ea.arrow_right_hook {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -600px;
+}
+
+.ea.arrow_up {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -720px;
+}
+
+.ea.arrow_up_down {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -720px;
+}
+
+.ea.arrow_up_small {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -720px;
+}
+
+.ea.arrow_upper_left {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -720px;
+}
+
+.ea.arrow_upper_right {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -720px;
+}
+
+.ea.arrows_clockwise {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -720px;
+}
+
+.ea.arrows_counterclockwise {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -720px;
+}
+
+.ea.art {
+  width: 120px;
+  height: 120px;
+  background-position: -840px 0px;
+}
+
+.ea.articulated_lorry {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -120px;
+}
+
+.ea.astonished {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -240px;
+}
+
+.ea.athletic_shoe {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -360px;
+}
+
+.ea.atm {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -480px;
+}
+
+.ea.atom-symbol {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -600px;
+}
+
+.ea.avocado {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -720px;
+}
+
+.ea.b {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -840px;
+}
+
+.ea.baby {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -840px;
+}
+
+.ea.baby_bottle {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -840px;
+}
+
+.ea.baby_chick {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -840px;
+}
+
+.ea.baby_symbol {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -840px;
+}
+
+.ea.back {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -840px;
+}
+
+.ea.bacon {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -840px;
+}
+
+.ea.badminton-racquet-and-shuttlecock {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -840px;
+}
+
+.ea.baggage_claim {
+  width: 120px;
+  height: 120px;
+  background-position: -960px 0px;
+}
+
+.ea.baguette-bread {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -120px;
+}
+
+.ea.balloon {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -240px;
+}
+
+.ea.ballot-box-with-ballot {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -360px;
+}
+
+.ea.ballot_box_with_check {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -480px;
+}
+
+.ea.bamboo {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -600px;
+}
+
+.ea.banana {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -720px;
+}
+
+.ea.bangbang {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -840px;
+}
+
+.ea.bank {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -960px;
+}
+
+.ea.bar_chart {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -960px;
+}
+
+.ea.barber {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -960px;
+}
+
+.ea.baseball {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -960px;
+}
+
+.ea.basketball {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -960px;
+}
+
+.ea.bat {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -960px;
+}
+
+.ea.bath {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -960px;
+}
+
+.ea.bathtub {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -960px;
+}
+
+.ea.battery {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -960px;
+}
+
+.ea.beach-with-umbrella {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px 0px;
+}
+
+.ea.bear {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -120px;
+}
+
+.ea.bearded-person {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -240px;
+}
+
+.ea.bed {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -360px;
+}
+
+.ea.bee {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -480px;
+}
+
+.ea.beer {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -600px;
+}
+
+.ea.beers {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -720px;
+}
+
+.ea.beetle {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -840px;
+}
+
+.ea.beginner {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -960px;
+}
+
+.ea.bell {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -1080px;
+}
+
+.ea.bellhop-bell {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -1080px;
+}
+
+.ea.bento {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -1080px;
+}
+
+.ea.bicyclist {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -1080px;
+}
+
+.ea.bike {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -1080px;
+}
+
+.ea.bikini {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -1080px;
+}
+
+.ea.billed-cap {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -1080px;
+}
+
+.ea.biohazard-sign {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -1080px;
+}
+
+.ea.bird {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -1080px;
+}
+
+.ea.birthday {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -1080px;
+}
+
+.ea.black-heart {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px 0px;
+}
+
+.ea.black-square-for-stop {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -120px;
+}
+
+.ea.black_circle {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -240px;
+}
+
+.ea.black_joker {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -360px;
+}
+
+.ea.black_large_square {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -480px;
+}
+
+.ea.black_medium_small_square {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -600px;
+}
+
+.ea.black_medium_square {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -720px;
+}
+
+.ea.black_nib {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -840px;
+}
+
+.ea.black_small_square {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -960px;
+}
+
+.ea.black_square_button {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -1080px;
+}
+
+.ea.blond-man {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -1200px;
+}
+
+.ea.blonde-woman {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -1200px;
+}
+
+.ea.blossom {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -1200px;
+}
+
+.ea.blowfish {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -1200px;
+}
+
+.ea.blue_book {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -1200px;
+}
+
+.ea.blue_heart {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -1200px;
+}
+
+.ea.blush {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -1200px;
+}
+
+.ea.boar {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -1200px;
+}
+
+.ea.boat {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -1200px;
+}
+
+.ea.bomb {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -1200px;
+}
+
+.ea.book {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -1200px;
+}
+
+.ea.bookmark {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px 0px;
+}
+
+.ea.bookmark_tabs {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -120px;
+}
+
+.ea.books {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -240px;
+}
+
+.ea.boom {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -360px;
+}
+
+.ea.boot {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -480px;
+}
+
+.ea.bottle-with-popping-cork {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -600px;
+}
+
+.ea.bouquet {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -720px;
+}
+
+.ea.bow-and-arrow {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -840px;
+}
+
+.ea.bow {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -960px;
+}
+
+.ea.bowl-with-spoon {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -1080px;
+}
+
+.ea.bowling {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -1200px;
+}
+
+.ea.boxing-glove {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -1320px;
+}
+
+.ea.boy {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -1320px;
+}
+
+.ea.brain {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -1320px;
+}
+
+.ea.bread {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -1320px;
+}
+
+.ea.breast-feeding {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -1320px;
+}
+
+.ea.bride_with_veil {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -1320px;
+}
+
+.ea.bridge_at_night {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -1320px;
+}
+
+.ea.briefcase {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -1320px;
+}
+
+.ea.broccoli {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -1320px;
+}
+
+.ea.broken_heart {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -1320px;
+}
+
+.ea.bug {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -1320px;
+}
+
+.ea.building-construction {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -1320px;
+}
+
+.ea.bulb {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px 0px;
+}
+
+.ea.bullettrain_front {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -120px;
+}
+
+.ea.bullettrain_side {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -240px;
+}
+
+.ea.burrito {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -360px;
+}
+
+.ea.bus {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -480px;
+}
+
+.ea.busstop {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -600px;
+}
+
+.ea.bust_in_silhouette {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -720px;
+}
+
+.ea.busts_in_silhouette {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -840px;
+}
+
+.ea.butterfly {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -960px;
+}
+
+.ea.cactus {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -1080px;
+}
+
+.ea.cake {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -1200px;
+}
+
+.ea.calendar {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -1320px;
+}
+
+.ea.calling {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -1440px;
+}
+
+.ea.camel {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -1440px;
+}
+
+.ea.camera-with-flash {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -1440px;
+}
+
+.ea.camera {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -1440px;
+}
+
+.ea.camping {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -1440px;
+}
+
+.ea.cancer {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -1440px;
+}
+
+.ea.candle {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -1440px;
+}
+
+.ea.candy {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -1440px;
+}
+
+.ea.canned-food {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -1440px;
+}
+
+.ea.capital_abcd {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -1440px;
+}
+
+.ea.capricorn {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -1440px;
+}
+
+.ea.car {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -1440px;
+}
+
+.ea.card-file-box {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -1440px;
+}
+
+.ea.card-index-dividers {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px 0px;
+}
+
+.ea.card_index {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -120px;
+}
+
+.ea.carousel_horse {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -240px;
+}
+
+.ea.carrot {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -360px;
+}
+
+.ea.cat {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -480px;
+}
+
+.ea.cat2 {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -600px;
+}
+
+.ea.cd {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -720px;
+}
+
+.ea.chains {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -840px;
+}
+
+.ea.chart_with_downwards_trend {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -960px;
+}
+
+.ea.chart_with_upwards_trend {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -1080px;
+}
+
+.ea.checkered_flag {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -1200px;
+}
+
+.ea.cheese-wedge {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -1320px;
+}
+
+.ea.cherries {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -1440px;
+}
+
+.ea.cherry_blossom {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -1560px;
+}
+
+.ea.chestnut {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -1560px;
+}
+
+.ea.chicken {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -1560px;
+}
+
+.ea.children_crossing {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -1560px;
+}
+
+.ea.chipmunk {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -1560px;
+}
+
+.ea.chocolate_bar {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -1560px;
+}
+
+.ea.chopsticks {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -1560px;
+}
+
+.ea.christmas_tree {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -1560px;
+}
+
+.ea.church {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -1560px;
+}
+
+.ea.cinema {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -1560px;
+}
+
+.ea.circus_tent {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -1560px;
+}
+
+.ea.city_sunrise {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -1560px;
+}
+
+.ea.city_sunset {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -1560px;
+}
+
+.ea.cityscape {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -1560px;
+}
+
+.ea.cl {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px 0px;
+}
+
+.ea.clap {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -120px;
+}
+
+.ea.clapper {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -240px;
+}
+
+.ea.classical-building {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -360px;
+}
+
+.ea.clinking-glasses {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -480px;
+}
+
+.ea.clipboard {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -600px;
+}
+
+.ea.clock1 {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -720px;
+}
+
+.ea.clock10 {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -840px;
+}
+
+.ea.clock1030 {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -960px;
+}
+
+.ea.clock11 {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -1080px;
+}
+
+.ea.clock1130 {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -1200px;
+}
+
+.ea.clock12 {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -1320px;
+}
+
+.ea.clock1230 {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -1440px;
+}
+
+.ea.clock130 {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -1560px;
+}
+
+.ea.clock2 {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -1680px;
+}
+
+.ea.clock230 {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -1680px;
+}
+
+.ea.clock3 {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -1680px;
+}
+
+.ea.clock330 {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -1680px;
+}
+
+.ea.clock4 {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -1680px;
+}
+
+.ea.clock430 {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -1680px;
+}
+
+.ea.clock5 {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -1680px;
+}
+
+.ea.clock530 {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -1680px;
+}
+
+.ea.clock6 {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -1680px;
+}
+
+.ea.clock630 {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -1680px;
+}
+
+.ea.clock7 {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -1680px;
+}
+
+.ea.clock730 {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -1680px;
+}
+
+.ea.clock8 {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -1680px;
+}
+
+.ea.clock830 {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -1680px;
+}
+
+.ea.clock9 {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -1680px;
+}
+
+.ea.clock930 {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px 0px;
+}
+
+.ea.closed_book {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -120px;
+}
+
+.ea.closed_lock_with_key {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -240px;
+}
+
+.ea.closed_umbrella {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -360px;
+}
+
+.ea.cloud-with-lightning {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -480px;
+}
+
+.ea.cloud-with-rain {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -600px;
+}
+
+.ea.cloud-with-snow {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -720px;
+}
+
+.ea.cloud-with-tornado {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -840px;
+}
+
+.ea.cloud {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -960px;
+}
+
+.ea.clown-face {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -1080px;
+}
+
+.ea.clubs {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -1200px;
+}
+
+.ea.cn {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -1320px;
+}
+
+.ea.coat {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -1440px;
+}
+
+.ea.cocktail {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -1560px;
+}
+
+.ea.coconut {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -1680px;
+}
+
+.ea.coffee {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -1800px;
+}
+
+.ea.coffin {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -1800px;
+}
+
+.ea.cold_sweat {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -1800px;
+}
+
+.ea.comet {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -1800px;
+}
+
+.ea.compression {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -1800px;
+}
+
+.ea.computer {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -1800px;
+}
+
+.ea.confetti_ball {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -1800px;
+}
+
+.ea.confounded {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -1800px;
+}
+
+.ea.confused {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -1800px;
+}
+
+.ea.congratulations {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -1800px;
+}
+
+.ea.construction {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -1800px;
+}
+
+.ea.construction_worker {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -1800px;
+}
+
+.ea.control-knobs {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -1800px;
+}
+
+.ea.convenience_store {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -1800px;
+}
+
+.ea.cookie {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -1800px;
+}
+
+.ea.cool {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -1800px;
+}
+
+.ea.cop {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px 0px;
+}
+
+.ea.copyright {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -120px;
+}
+
+.ea.corn {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -240px;
+}
+
+.ea.couch-and-lamp {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -360px;
+}
+
+.ea.couple-with-heart-man-man {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -480px;
+}
+
+.ea.couple-with-heart-woman-woman {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -600px;
+}
+
+.ea.couple {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -720px;
+}
+
+.ea.couple_with_heart {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -840px;
+}
+
+.ea.couplekiss {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -960px;
+}
+
+.ea.cow {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -1080px;
+}
+
+.ea.cow2 {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -1200px;
+}
+
+.ea.crab {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -1320px;
+}
+
+.ea.credit_card {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -1440px;
+}
+
+.ea.crescent_moon {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -1560px;
+}
+
+.ea.cricket-bat-and-ball {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -1680px;
+}
+
+.ea.cricket {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -1800px;
+}
+
+.ea.crocodile {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -1920px;
+}
+
+.ea.croissant {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -1920px;
+}
+
+.ea.crossed-swords {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -1920px;
+}
+
+.ea.crossed_flags {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -1920px;
+}
+
+.ea.crown {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -1920px;
+}
+
+.ea.cry {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -1920px;
+}
+
+.ea.crying_cat_face {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -1920px;
+}
+
+.ea.crystal_ball {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -1920px;
+}
+
+.ea.cucumber {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -1920px;
+}
+
+.ea.cup-with-straw {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -1920px;
+}
+
+.ea.cupid {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -1920px;
+}
+
+.ea.curling-stone {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -1920px;
+}
+
+.ea.curly_loop {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -1920px;
+}
+
+.ea.curry {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -1920px;
+}
+
+.ea.custard {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -1920px;
+}
+
+.ea.customs {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -1920px;
+}
+
+.ea.cut-of-meat {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -1920px;
+}
+
+.ea.cyclone {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px 0px;
+}
+
+.ea.dagger-knife {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -120px;
+}
+
+.ea.dancer {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -240px;
+}
+
+.ea.dancers {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -360px;
+}
+
+.ea.dango {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -480px;
+}
+
+.ea.dark-sunglasses {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -600px;
+}
+
+.ea.dart {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -720px;
+}
+
+.ea.dash {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -840px;
+}
+
+.ea.date {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -960px;
+}
+
+.ea.de {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -1080px;
+}
+
+.ea.deciduous_tree {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -1200px;
+}
+
+.ea.department_store {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -1320px;
+}
+
+.ea.derelict-house-building {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -1440px;
+}
+
+.ea.desert-island {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -1560px;
+}
+
+.ea.desert {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -1680px;
+}
+
+.ea.desktop-computer {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -1800px;
+}
+
+.ea.diamond_shape_with_a_dot_inside {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -1920px;
+}
+
+.ea.diamonds {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -2040px;
+}
+
+.ea.disappointed {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -2040px;
+}
+
+.ea.disappointed_relieved {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -2040px;
+}
+
+.ea.dizzy {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -2040px;
+}
+
+.ea.dizzy_face {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -2040px;
+}
+
+.ea.do_not_litter {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -2040px;
+}
+
+.ea.dog {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -2040px;
+}
+
+.ea.dog2 {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -2040px;
+}
+
+.ea.dollar {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -2040px;
+}
+
+.ea.dolls {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -2040px;
+}
+
+.ea.dolphin {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -2040px;
+}
+
+.ea.door {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -2040px;
+}
+
+.ea.doughnut {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -2040px;
+}
+
+.ea.dove-of-peace {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -2040px;
+}
+
+.ea.dragon {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -2040px;
+}
+
+.ea.dragon_face {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -2040px;
+}
+
+.ea.dress {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -2040px;
+}
+
+.ea.dromedary_camel {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -2040px;
+}
+
+.ea.drooling-face {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px 0px;
+}
+
+.ea.droplet {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -120px;
+}
+
+.ea.drum-with-drumsticks {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -240px;
+}
+
+.ea.duck {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -360px;
+}
+
+.ea.dumpling {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -480px;
+}
+
+.ea.dvd {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -600px;
+}
+
+.ea.e-mail {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -720px;
+}
+
+.ea.eagle {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -840px;
+}
+
+.ea.ear {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -960px;
+}
+
+.ea.ear_of_rice {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -1080px;
+}
+
+.ea.earth_africa {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -1200px;
+}
+
+.ea.earth_americas {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -1320px;
+}
+
+.ea.earth_asia {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -1440px;
+}
+
+.ea.egg {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -1560px;
+}
+
+.ea.eggplant {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -1680px;
+}
+
+.ea.eight {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -1800px;
+}
+
+.ea.eight_pointed_black_star {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -1920px;
+}
+
+.ea.eight_spoked_asterisk {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -2040px;
+}
+
+.ea.eject-symbol {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -2160px;
+}
+
+.ea.electric_plug {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -2160px;
+}
+
+.ea.elephant {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -2160px;
+}
+
+.ea.elf {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -2160px;
+}
+
+.ea.email {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -2160px;
+}
+
+.ea.end {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -2160px;
+}
+
+.ea.envelope_with_arrow {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -2160px;
+}
+
+.ea.es {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -2160px;
+}
+
+.ea.euro {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -2160px;
+}
+
+.ea.european_castle {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -2160px;
+}
+
+.ea.european_post_office {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -2160px;
+}
+
+.ea.evergreen_tree {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -2160px;
+}
+
+.ea.exclamation {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -2160px;
+}
+
+.ea.expressionless {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -2160px;
+}
+
+.ea.eye-in-speech-bubble {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -2160px;
+}
+
+.ea.eye {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -2160px;
+}
+
+.ea.eyeglasses {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -2160px;
+}
+
+.ea.eyes {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -2160px;
+}
+
+.ea.face-palm {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -2160px;
+}
+
+.ea.face-with-cowboy-hat {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px 0px;
+}
+
+.ea.face-with-finger-covering-closed-lips {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -120px;
+}
+
+.ea.face-with-head-bandage {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -240px;
+}
+
+.ea.face-with-monocle {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -360px;
+}
+
+.ea.face-with-one-eyebrow-raised {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -480px;
+}
+
+.ea.face-with-open-mouth-vomiting {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -600px;
+}
+
+.ea.face-with-rolling-eyes {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -720px;
+}
+
+.ea.face-with-thermometer {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -840px;
+}
+
+.ea.facepunch {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -960px;
+}
+
+.ea.factory {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -1080px;
+}
+
+.ea.fallen_leaf {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -1200px;
+}
+
+.ea.family-man-boy-boy {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -1320px;
+}
+
+.ea.family-man-boy {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -1440px;
+}
+
+.ea.family-man-girl-boy {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -1560px;
+}
+
+.ea.family-man-girl-girl {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -1680px;
+}
+
+.ea.family-man-girl {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -1800px;
+}
+
+.ea.family-man-man-boy-boy {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -1920px;
+}
+
+.ea.family-man-man-boy {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -2040px;
+}
+
+.ea.family-man-man-girl-boy {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -2160px;
+}
+
+.ea.family-man-man-girl-girl {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -2280px;
+}
+
+.ea.family-man-man-girl {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -2280px;
+}
+
+.ea.family-man-woman-boy-boy {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -2280px;
+}
+
+.ea.family-man-woman-boy {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -2280px;
+}
+
+.ea.family-man-woman-girl-boy {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -2280px;
+}
+
+.ea.family-man-woman-girl-girl {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -2280px;
+}
+
+.ea.family-man-woman-girl {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -2280px;
+}
+
+.ea.family-woman-boy-boy {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -2280px;
+}
+
+.ea.family-woman-boy {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -2280px;
+}
+
+.ea.family-woman-girl-boy {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -2280px;
+}
+
+.ea.family-woman-girl-girl {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -2280px;
+}
+
+.ea.family-woman-girl {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -2280px;
+}
+
+.ea.family-woman-woman-boy-boy {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -2280px;
+}
+
+.ea.family-woman-woman-boy {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -2280px;
+}
+
+.ea.family-woman-woman-girl-boy {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -2280px;
+}
+
+.ea.family-woman-woman-girl-girl {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -2280px;
+}
+
+.ea.family-woman-woman-girl {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -2280px;
+}
+
+.ea.family {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -2280px;
+}
+
+.ea.fast_forward {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -2280px;
+}
+
+.ea.fax {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -2280px;
+}
+
+.ea.fearful {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px 0px;
+}
+
+.ea.feet {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -120px;
+}
+
+.ea.female-artist {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -240px;
+}
+
+.ea.female-astronaut {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -360px;
+}
+
+.ea.female-construction-worker {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -480px;
+}
+
+.ea.female-cook {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -600px;
+}
+
+.ea.female-factory-worker {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -720px;
+}
+
+.ea.female-farmer {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -840px;
+}
+
+.ea.female-firefighter {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -960px;
+}
+
+.ea.female-guard {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -1080px;
+}
+
+.ea.female-health-worker {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -1200px;
+}
+
+.ea.female-judge {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -1320px;
+}
+
+.ea.female-mechanic {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -1440px;
+}
+
+.ea.female-office-worker {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -1560px;
+}
+
+.ea.female-pilot {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -1680px;
+}
+
+.ea.female-police-officer {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -1800px;
+}
+
+.ea.female-scientist {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -1920px;
+}
+
+.ea.female-singer {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -2040px;
+}
+
+.ea.female-sleuth {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -2160px;
+}
+
+.ea.female-student {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -2280px;
+}
+
+.ea.female-technologist {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -2400px;
+}
+
+.ea.ferris_wheel {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -2400px;
+}
+
+.ea.ferry {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -2400px;
+}
+
+.ea.field-hockey-stick-and-ball {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -2400px;
+}
+
+.ea.file-cabinet {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -2400px;
+}
+
+.ea.file_folder {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -2400px;
+}
+
+.ea.film-frames {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -2400px;
+}
+
+.ea.film-projector {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -2400px;
+}
+
+.ea.fire {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -2400px;
+}
+
+.ea.fire_engine {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -2400px;
+}
+
+.ea.fireworks {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -2400px;
+}
+
+.ea.first-place-medal {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -2400px;
+}
+
+.ea.first_quarter_moon {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -2400px;
+}
+
+.ea.first_quarter_moon_with_face {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -2400px;
+}
+
+.ea.fish {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -2400px;
+}
+
+.ea.fish_cake {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -2400px;
+}
+
+.ea.fishing_pole_and_fish {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -2400px;
+}
+
+.ea.fist {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -2400px;
+}
+
+.ea.five {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -2400px;
+}
+
+.ea.flag-for-afghanistan {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -2400px;
+}
+
+.ea.flag-for-aland-islands {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -2400px;
+}
+
+.ea.flag-for-albania {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px 0px;
+}
+
+.ea.flag-for-algeria {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -120px;
+}
+
+.ea.flag-for-american-samoa {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -240px;
+}
+
+.ea.flag-for-andorra {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -360px;
+}
+
+.ea.flag-for-angola {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -480px;
+}
+
+.ea.flag-for-anguilla {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -600px;
+}
+
+.ea.flag-for-antarctica {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -720px;
+}
+
+.ea.flag-for-antigua-barbuda {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -840px;
+}
+
+.ea.flag-for-argentina {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -960px;
+}
+
+.ea.flag-for-armenia {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -1080px;
+}
+
+.ea.flag-for-aruba {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -1200px;
+}
+
+.ea.flag-for-ascension-island {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -1320px;
+}
+
+.ea.flag-for-australia {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -1440px;
+}
+
+.ea.flag-for-austria {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -1560px;
+}
+
+.ea.flag-for-azerbaijan {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -1680px;
+}
+
+.ea.flag-for-bahamas {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -1800px;
+}
+
+.ea.flag-for-bahrain {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -1920px;
+}
+
+.ea.flag-for-bangladesh {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -2040px;
+}
+
+.ea.flag-for-barbados {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -2160px;
+}
+
+.ea.flag-for-belarus {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -2280px;
+}
+
+.ea.flag-for-belgium {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -2400px;
+}
+
+.ea.flag-for-belize {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -2520px;
+}
+
+.ea.flag-for-benin {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -2520px;
+}
+
+.ea.flag-for-bermuda {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -2520px;
+}
+
+.ea.flag-for-bhutan {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -2520px;
+}
+
+.ea.flag-for-bolivia {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -2520px;
+}
+
+.ea.flag-for-bosnia-herzegovina {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -2520px;
+}
+
+.ea.flag-for-botswana {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -2520px;
+}
+
+.ea.flag-for-bouvet-island {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -2520px;
+}
+
+.ea.flag-for-brazil {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -2520px;
+}
+
+.ea.flag-for-british-indian-ocean-territory {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -2520px;
+}
+
+.ea.flag-for-british-virgin-islands {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -2520px;
+}
+
+.ea.flag-for-brunei {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -2520px;
+}
+
+.ea.flag-for-bulgaria {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -2520px;
+}
+
+.ea.flag-for-burkina-faso {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -2520px;
+}
+
+.ea.flag-for-burundi {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -2520px;
+}
+
+.ea.flag-for-cambodia {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -2520px;
+}
+
+.ea.flag-for-cameroon {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -2520px;
+}
+
+.ea.flag-for-canada {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -2520px;
+}
+
+.ea.flag-for-canary-islands {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -2520px;
+}
+
+.ea.flag-for-cape-verde {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -2520px;
+}
+
+.ea.flag-for-caribbean-netherlands {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -2520px;
+}
+
+.ea.flag-for-cayman-islands {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -2520px;
+}
+
+.ea.flag-for-central-african-republic {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px 0px;
+}
+
+.ea.flag-for-ceuta-melilla {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -120px;
+}
+
+.ea.flag-for-chad {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -240px;
+}
+
+.ea.flag-for-chile {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -360px;
+}
+
+.ea.flag-for-christmas-island {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -480px;
+}
+
+.ea.flag-for-clipperton-island {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -600px;
+}
+
+.ea.flag-for-cocos-islands {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -720px;
+}
+
+.ea.flag-for-colombia {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -840px;
+}
+
+.ea.flag-for-comoros {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -960px;
+}
+
+.ea.flag-for-congo-brazzaville {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -1080px;
+}
+
+.ea.flag-for-congo-kinshasa {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -1200px;
+}
+
+.ea.flag-for-cook-islands {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -1320px;
+}
+
+.ea.flag-for-costa-rica {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -1440px;
+}
+
+.ea.flag-for-cote-divoire {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -1560px;
+}
+
+.ea.flag-for-croatia {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -1680px;
+}
+
+.ea.flag-for-cuba {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -1800px;
+}
+
+.ea.flag-for-curacao {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -1920px;
+}
+
+.ea.flag-for-cyprus {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -2040px;
+}
+
+.ea.flag-for-czech-republic {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -2160px;
+}
+
+.ea.flag-for-denmark {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -2280px;
+}
+
+.ea.flag-for-diego-garcia {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -2400px;
+}
+
+.ea.flag-for-djibouti {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -2520px;
+}
+
+.ea.flag-for-dominica {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -2640px;
+}
+
+.ea.flag-for-dominican-republic {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -2640px;
+}
+
+.ea.flag-for-ecuador {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -2640px;
+}
+
+.ea.flag-for-egypt {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -2640px;
+}
+
+.ea.flag-for-el-salvador {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -2640px;
+}
+
+.ea.flag-for-england {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -2640px;
+}
+
+.ea.flag-for-equatorial-guinea {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -2640px;
+}
+
+.ea.flag-for-eritrea {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -2640px;
+}
+
+.ea.flag-for-estonia {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -2640px;
+}
+
+.ea.flag-for-ethiopia {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -2640px;
+}
+
+.ea.flag-for-european-union {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -2640px;
+}
+
+.ea.flag-for-falkland-islands {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -2640px;
+}
+
+.ea.flag-for-faroe-islands {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -2640px;
+}
+
+.ea.flag-for-fiji {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -2640px;
+}
+
+.ea.flag-for-finland {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -2640px;
+}
+
+.ea.flag-for-french-guiana {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -2640px;
+}
+
+.ea.flag-for-french-polynesia {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -2640px;
+}
+
+.ea.flag-for-french-southern-territories {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -2640px;
+}
+
+.ea.flag-for-gabon {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -2640px;
+}
+
+.ea.flag-for-gambia {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -2640px;
+}
+
+.ea.flag-for-georgia {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -2640px;
+}
+
+.ea.flag-for-ghana {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -2640px;
+}
+
+.ea.flag-for-gibraltar {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -2640px;
+}
+
+.ea.flag-for-greece {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px 0px;
+}
+
+.ea.flag-for-greenland {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -120px;
+}
+
+.ea.flag-for-grenada {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -240px;
+}
+
+.ea.flag-for-guadeloupe {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -360px;
+}
+
+.ea.flag-for-guam {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -480px;
+}
+
+.ea.flag-for-guatemala {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -600px;
+}
+
+.ea.flag-for-guernsey {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -720px;
+}
+
+.ea.flag-for-guinea-bissau {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -840px;
+}
+
+.ea.flag-for-guinea {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -960px;
+}
+
+.ea.flag-for-guyana {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -1080px;
+}
+
+.ea.flag-for-haiti {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -1200px;
+}
+
+.ea.flag-for-heard-mcdonald-islands {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -1320px;
+}
+
+.ea.flag-for-honduras {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -1440px;
+}
+
+.ea.flag-for-hong-kong {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -1560px;
+}
+
+.ea.flag-for-hungary {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -1680px;
+}
+
+.ea.flag-for-iceland {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -1800px;
+}
+
+.ea.flag-for-india {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -1920px;
+}
+
+.ea.flag-for-indonesia {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -2040px;
+}
+
+.ea.flag-for-iran {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -2160px;
+}
+
+.ea.flag-for-iraq {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -2280px;
+}
+
+.ea.flag-for-ireland {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -2400px;
+}
+
+.ea.flag-for-isle-of-man {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -2520px;
+}
+
+.ea.flag-for-israel {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -2640px;
+}
+
+.ea.flag-for-jamaica {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -2760px;
+}
+
+.ea.flag-for-jersey {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -2760px;
+}
+
+.ea.flag-for-jordan {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -2760px;
+}
+
+.ea.flag-for-kazakhstan {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -2760px;
+}
+
+.ea.flag-for-kenya {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -2760px;
+}
+
+.ea.flag-for-kiribati {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -2760px;
+}
+
+.ea.flag-for-kosovo {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -2760px;
+}
+
+.ea.flag-for-kuwait {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -2760px;
+}
+
+.ea.flag-for-kyrgyzstan {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -2760px;
+}
+
+.ea.flag-for-laos {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -2760px;
+}
+
+.ea.flag-for-latvia {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -2760px;
+}
+
+.ea.flag-for-lebanon {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -2760px;
+}
+
+.ea.flag-for-lesotho {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -2760px;
+}
+
+.ea.flag-for-liberia {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -2760px;
+}
+
+.ea.flag-for-libya {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -2760px;
+}
+
+.ea.flag-for-liechtenstein {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -2760px;
+}
+
+.ea.flag-for-lithuania {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -2760px;
+}
+
+.ea.flag-for-luxembourg {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -2760px;
+}
+
+.ea.flag-for-macau {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -2760px;
+}
+
+.ea.flag-for-macedonia {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -2760px;
+}
+
+.ea.flag-for-madagascar {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -2760px;
+}
+
+.ea.flag-for-malawi {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -2760px;
+}
+
+.ea.flag-for-malaysia {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -2760px;
+}
+
+.ea.flag-for-maldives {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -2760px;
+}
+
+.ea.flag-for-mali {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px 0px;
+}
+
+.ea.flag-for-malta {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -120px;
+}
+
+.ea.flag-for-marshall-islands {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -240px;
+}
+
+.ea.flag-for-martinique {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -360px;
+}
+
+.ea.flag-for-mauritania {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -480px;
+}
+
+.ea.flag-for-mauritius {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -600px;
+}
+
+.ea.flag-for-mayotte {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -720px;
+}
+
+.ea.flag-for-mexico {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -840px;
+}
+
+.ea.flag-for-micronesia {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -960px;
+}
+
+.ea.flag-for-moldova {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -1080px;
+}
+
+.ea.flag-for-monaco {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -1200px;
+}
+
+.ea.flag-for-mongolia {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -1320px;
+}
+
+.ea.flag-for-montenegro {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -1440px;
+}
+
+.ea.flag-for-montserrat {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -1560px;
+}
+
+.ea.flag-for-morocco {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -1680px;
+}
+
+.ea.flag-for-mozambique {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -1800px;
+}
+
+.ea.flag-for-myanmar {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -1920px;
+}
+
+.ea.flag-for-namibia {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -2040px;
+}
+
+.ea.flag-for-nauru {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -2160px;
+}
+
+.ea.flag-for-nepal {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -2280px;
+}
+
+.ea.flag-for-netherlands {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -2400px;
+}
+
+.ea.flag-for-new-caledonia {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -2520px;
+}
+
+.ea.flag-for-new-zealand {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -2640px;
+}
+
+.ea.flag-for-nicaragua {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -2760px;
+}
+
+.ea.flag-for-niger {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -2880px;
+}
+
+.ea.flag-for-nigeria {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -2880px;
+}
+
+.ea.flag-for-niue {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -2880px;
+}
+
+.ea.flag-for-norfolk-island {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -2880px;
+}
+
+.ea.flag-for-north-korea {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -2880px;
+}
+
+.ea.flag-for-northern-mariana-islands {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -2880px;
+}
+
+.ea.flag-for-norway {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -2880px;
+}
+
+.ea.flag-for-oman {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -2880px;
+}
+
+.ea.flag-for-pakistan {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -2880px;
+}
+
+.ea.flag-for-palau {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -2880px;
+}
+
+.ea.flag-for-palestinian-territories {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -2880px;
+}
+
+.ea.flag-for-panama {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -2880px;
+}
+
+.ea.flag-for-papua-new-guinea {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -2880px;
+}
+
+.ea.flag-for-paraguay {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -2880px;
+}
+
+.ea.flag-for-peru {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -2880px;
+}
+
+.ea.flag-for-philippines {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -2880px;
+}
+
+.ea.flag-for-pitcairn-islands {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -2880px;
+}
+
+.ea.flag-for-poland {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -2880px;
+}
+
+.ea.flag-for-portugal {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -2880px;
+}
+
+.ea.flag-for-puerto-rico {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -2880px;
+}
+
+.ea.flag-for-qatar {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -2880px;
+}
+
+.ea.flag-for-reunion {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -2880px;
+}
+
+.ea.flag-for-romania {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -2880px;
+}
+
+.ea.flag-for-rwanda {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -2880px;
+}
+
+.ea.flag-for-samoa {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -2880px;
+}
+
+.ea.flag-for-san-marino {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px 0px;
+}
+
+.ea.flag-for-sao-tome-principe {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -120px;
+}
+
+.ea.flag-for-saudi-arabia {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -240px;
+}
+
+.ea.flag-for-scotland {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -360px;
+}
+
+.ea.flag-for-senegal {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -480px;
+}
+
+.ea.flag-for-serbia {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -600px;
+}
+
+.ea.flag-for-seychelles {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -720px;
+}
+
+.ea.flag-for-sierra-leone {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -840px;
+}
+
+.ea.flag-for-singapore {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -960px;
+}
+
+.ea.flag-for-sint-maarten {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -1080px;
+}
+
+.ea.flag-for-slovakia {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -1200px;
+}
+
+.ea.flag-for-slovenia {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -1320px;
+}
+
+.ea.flag-for-solomon-islands {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -1440px;
+}
+
+.ea.flag-for-somalia {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -1560px;
+}
+
+.ea.flag-for-south-africa {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -1680px;
+}
+
+.ea.flag-for-south-georgia-south-sandwich-islands {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -1800px;
+}
+
+.ea.flag-for-south-sudan {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -1920px;
+}
+
+.ea.flag-for-sri-lanka {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -2040px;
+}
+
+.ea.flag-for-st-barthelemy {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -2160px;
+}
+
+.ea.flag-for-st-helena {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -2280px;
+}
+
+.ea.flag-for-st-kitts-nevis {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -2400px;
+}
+
+.ea.flag-for-st-lucia {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -2520px;
+}
+
+.ea.flag-for-st-martin {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -2640px;
+}
+
+.ea.flag-for-st-pierre-miquelon {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -2760px;
+}
+
+.ea.flag-for-st-vincent-grenadines {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -2880px;
+}
+
+.ea.flag-for-sudan {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -3000px;
+}
+
+.ea.flag-for-suriname {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -3000px;
+}
+
+.ea.flag-for-svalbard-jan-mayen {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -3000px;
+}
+
+.ea.flag-for-swaziland {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -3000px;
+}
+
+.ea.flag-for-sweden {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -3000px;
+}
+
+.ea.flag-for-switzerland {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -3000px;
+}
+
+.ea.flag-for-syria {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -3000px;
+}
+
+.ea.flag-for-taiwan {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -3000px;
+}
+
+.ea.flag-for-tajikistan {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -3000px;
+}
+
+.ea.flag-for-tanzania {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -3000px;
+}
+
+.ea.flag-for-thailand {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -3000px;
+}
+
+.ea.flag-for-timor-leste {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -3000px;
+}
+
+.ea.flag-for-togo {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -3000px;
+}
+
+.ea.flag-for-tokelau {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -3000px;
+}
+
+.ea.flag-for-tonga {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -3000px;
+}
+
+.ea.flag-for-trinidad-tobago {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -3000px;
+}
+
+.ea.flag-for-tristan-da-cunha {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -3000px;
+}
+
+.ea.flag-for-tunisia {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -3000px;
+}
+
+.ea.flag-for-turkey {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -3000px;
+}
+
+.ea.flag-for-turkmenistan {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -3000px;
+}
+
+.ea.flag-for-turks-caicos-islands {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -3000px;
+}
+
+.ea.flag-for-tuvalu {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -3000px;
+}
+
+.ea.flag-for-uganda {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -3000px;
+}
+
+.ea.flag-for-ukraine {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -3000px;
+}
+
+.ea.flag-for-united-arab-emirates {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -3000px;
+}
+
+.ea.flag-for-uruguay {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -3000px;
+}
+
+.ea.flag-for-us-outlying-islands {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px 0px;
+}
+
+.ea.flag-for-us-virgin-islands {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -120px;
+}
+
+.ea.flag-for-uzbekistan {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -240px;
+}
+
+.ea.flag-for-vanuatu {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -360px;
+}
+
+.ea.flag-for-vatican-city {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -480px;
+}
+
+.ea.flag-for-venezuela {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -600px;
+}
+
+.ea.flag-for-vietnam {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -720px;
+}
+
+.ea.flag-for-wales {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -840px;
+}
+
+.ea.flag-for-wallis-futuna {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -960px;
+}
+
+.ea.flag-for-western-sahara {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -1080px;
+}
+
+.ea.flag-for-yemen {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -1200px;
+}
+
+.ea.flag-for-zambia {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -1320px;
+}
+
+.ea.flag-for-zimbabwe {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -1440px;
+}
+
+.ea.flags {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -1560px;
+}
+
+.ea.flashlight {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -1680px;
+}
+
+.ea.floppy_disk {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -1800px;
+}
+
+.ea.flower_playing_cards {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -1920px;
+}
+
+.ea.flushed {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -2040px;
+}
+
+.ea.flying-saucer {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -2160px;
+}
+
+.ea.fog {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -2280px;
+}
+
+.ea.foggy {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -2400px;
+}
+
+.ea.football {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -2520px;
+}
+
+.ea.footprints {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -2640px;
+}
+
+.ea.fork-and-knife-with-plate {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -2760px;
+}
+
+.ea.fork_and_knife {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -2880px;
+}
+
+.ea.fortune-cookie {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -3000px;
+}
+
+.ea.fountain {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -3120px;
+}
+
+.ea.four {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -3120px;
+}
+
+.ea.four_leaf_clover {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -3120px;
+}
+
+.ea.fox-face {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -3120px;
+}
+
+.ea.fr {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -3120px;
+}
+
+.ea.frame-with-picture {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -3120px;
+}
+
+.ea.free {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -3120px;
+}
+
+.ea.fried_shrimp {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -3120px;
+}
+
+.ea.fries {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -3120px;
+}
+
+.ea.frog {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -3120px;
+}
+
+.ea.frowning {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -3120px;
+}
+
+.ea.fuelpump {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -3120px;
+}
+
+.ea.full_moon {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -3120px;
+}
+
+.ea.full_moon_with_face {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -3120px;
+}
+
+.ea.funeral-urn {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -3120px;
+}
+
+.ea.game_die {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -3120px;
+}
+
+.ea.gb {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -3120px;
+}
+
+.ea.gear {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -3120px;
+}
+
+.ea.gem {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -3120px;
+}
+
+.ea.gemini {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -3120px;
+}
+
+.ea.ghost {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -3120px;
+}
+
+.ea.gift {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -3120px;
+}
+
+.ea.gift_heart {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -3120px;
+}
+
+.ea.giraffe-face {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -3120px;
+}
+
+.ea.girl {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -3120px;
+}
+
+.ea.glass-of-milk {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -3120px;
+}
+
+.ea.globe_with_meridians {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -3120px;
+}
+
+.ea.gloves {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px 0px;
+}
+
+.ea.goat {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -120px;
+}
+
+.ea.golf {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -240px;
+}
+
+.ea.golfer {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -360px;
+}
+
+.ea.gorilla {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -480px;
+}
+
+.ea.grapes {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -600px;
+}
+
+.ea.green-salad {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -720px;
+}
+
+.ea.green_apple {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -840px;
+}
+
+.ea.green_book {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -960px;
+}
+
+.ea.green_heart {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -1080px;
+}
+
+.ea.grey_exclamation {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -1200px;
+}
+
+.ea.grey_question {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -1320px;
+}
+
+.ea.grimacing {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -1440px;
+}
+
+.ea.grin {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -1560px;
+}
+
+.ea.grinning-face-with-one-large-and-one-small-eye {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -1680px;
+}
+
+.ea.grinning-face-with-star-eyes {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -1800px;
+}
+
+.ea.grinning {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -1920px;
+}
+
+.ea.guardsman {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -2040px;
+}
+
+.ea.guitar {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -2160px;
+}
+
+.ea.gun {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -2280px;
+}
+
+.ea.haircut {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -2400px;
+}
+
+.ea.hamburger {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -2520px;
+}
+
+.ea.hammer-and-pick {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -2640px;
+}
+
+.ea.hammer-and-wrench {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -2760px;
+}
+
+.ea.hammer {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -2880px;
+}
+
+.ea.hamster {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -3000px;
+}
+
+.ea.hand-with-index-and-middle-fingers-crossed {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -3120px;
+}
+
+.ea.hand {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -3240px;
+}
+
+.ea.handbag {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -3240px;
+}
+
+.ea.handball {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -3240px;
+}
+
+.ea.handshake {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -3240px;
+}
+
+.ea.hankey {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -3240px;
+}
+
+.ea.hash {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -3240px;
+}
+
+.ea.hatched_chick {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -3240px;
+}
+
+.ea.hatching_chick {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -3240px;
+}
+
+.ea.headphones {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -3240px;
+}
+
+.ea.hear_no_evil {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -3240px;
+}
+
+.ea.heart {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -3240px;
+}
+
+.ea.heart_decoration {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -3240px;
+}
+
+.ea.heart_eyes {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -3240px;
+}
+
+.ea.heart_eyes_cat {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -3240px;
+}
+
+.ea.heartbeat {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -3240px;
+}
+
+.ea.heartpulse {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -3240px;
+}
+
+.ea.hearts {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -3240px;
+}
+
+.ea.heavy-heart-exclamation-mark-ornament {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -3240px;
+}
+
+.ea.heavy_check_mark {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -3240px;
+}
+
+.ea.heavy_division_sign {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -3240px;
+}
+
+.ea.heavy_minus_sign {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -3240px;
+}
+
+.ea.heavy_multiplication_x {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -3240px;
+}
+
+.ea.heavy_plus_sign {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -3240px;
+}
+
+.ea.hedgehog {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -3240px;
+}
+
+.ea.helicopter {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -3240px;
+}
+
+.ea.helmet-with-white-cross {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -3240px;
+}
+
+.ea.herb {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -3240px;
+}
+
+.ea.hibiscus {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -3240px;
+}
+
+.ea.high_brightness {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px 0px;
+}
+
+.ea.high_heel {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -120px;
+}
+
+.ea.hocho {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -240px;
+}
+
+.ea.hole {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -360px;
+}
+
+.ea.honey_pot {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -480px;
+}
+
+.ea.horse {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -600px;
+}
+
+.ea.horse_racing {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -720px;
+}
+
+.ea.hospital {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -840px;
+}
+
+.ea.hot-dog {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -960px;
+}
+
+.ea.hot-pepper {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -1080px;
+}
+
+.ea.hotel {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -1200px;
+}
+
+.ea.hotsprings {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -1320px;
+}
+
+.ea.hourglass {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -1440px;
+}
+
+.ea.hourglass_flowing_sand {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -1560px;
+}
+
+.ea.house-buildings {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -1680px;
+}
+
+.ea.house {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -1800px;
+}
+
+.ea.house_with_garden {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -1920px;
+}
+
+.ea.hugging-face {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -2040px;
+}
+
+.ea.hushed {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -2160px;
+}
+
+.ea.i-love-you-hand-sign {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -2280px;
+}
+
+.ea.ice-hockey-stick-and-puck {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -2400px;
+}
+
+.ea.ice-skate {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -2520px;
+}
+
+.ea.ice_cream {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -2640px;
+}
+
+.ea.icecream {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -2760px;
+}
+
+.ea.id {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -2880px;
+}
+
+.ea.-1 {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -3000px;
+}
+
+.ea.imp {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -3120px;
+}
+
+.ea.inbox_tray {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -3240px;
+}
+
+.ea.incoming_envelope {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -3360px;
+}
+
+.ea.information_desk_person {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -3360px;
+}
+
+.ea.information_source {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -3360px;
+}
+
+.ea.innocent {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -3360px;
+}
+
+.ea.interrobang {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -3360px;
+}
+
+.ea.iphone {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -3360px;
+}
+
+.ea.it {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -3360px;
+}
+
+.ea.izakaya_lantern {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -3360px;
+}
+
+.ea.japan {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -3360px;
+}
+
+.ea.japanese_castle {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -3360px;
+}
+
+.ea.japanese_goblin {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -3360px;
+}
+
+.ea.japanese_ogre {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -3360px;
+}
+
+.ea.jeans {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -3360px;
+}
+
+.ea.joy {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -3360px;
+}
+
+.ea.joy_cat {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -3360px;
+}
+
+.ea.joystick {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -3360px;
+}
+
+.ea.jp {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -3360px;
+}
+
+.ea.juggling {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -3360px;
+}
+
+.ea.kaaba {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -3360px;
+}
+
+.ea.key {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -3360px;
+}
+
+.ea.keyboard {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -3360px;
+}
+
+.ea.keycap_ten {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -3360px;
+}
+
+.ea.kimono {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -3360px;
+}
+
+.ea.kiss-man-man {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -3360px;
+}
+
+.ea.kiss-woman-woman {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -3360px;
+}
+
+.ea.kiss {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -3360px;
+}
+
+.ea.kissing {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -3360px;
+}
+
+.ea.kissing_cat {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -3360px;
+}
+
+.ea.kissing_closed_eyes {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -3360px;
+}
+
+.ea.kissing_heart {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px 0px;
+}
+
+.ea.kissing_smiling_eyes {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -120px;
+}
+
+.ea.kiwifruit {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -240px;
+}
+
+.ea.koala {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -360px;
+}
+
+.ea.koko {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -480px;
+}
+
+.ea.kr {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -600px;
+}
+
+.ea.label {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -720px;
+}
+
+.ea.large_blue_circle {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -840px;
+}
+
+.ea.large_blue_diamond {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -960px;
+}
+
+.ea.large_orange_diamond {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -1080px;
+}
+
+.ea.last_quarter_moon {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -1200px;
+}
+
+.ea.last_quarter_moon_with_face {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -1320px;
+}
+
+.ea.latin-cross {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -1440px;
+}
+
+.ea.laughing {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -1560px;
+}
+
+.ea.leaves {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -1680px;
+}
+
+.ea.left-facing-fist {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -1800px;
+}
+
+.ea.left_luggage {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -1920px;
+}
+
+.ea.left_right_arrow {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -2040px;
+}
+
+.ea.leftwards_arrow_with_hook {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -2160px;
+}
+
+.ea.lemon {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -2280px;
+}
+
+.ea.leo {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -2400px;
+}
+
+.ea.leopard {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -2520px;
+}
+
+.ea.level-slider {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -2640px;
+}
+
+.ea.libra {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -2760px;
+}
+
+.ea.light_rail {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -2880px;
+}
+
+.ea.link {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -3000px;
+}
+
+.ea.linked-paperclips {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -3120px;
+}
+
+.ea.lion-face {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -3240px;
+}
+
+.ea.lips {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -3360px;
+}
+
+.ea.lipstick {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -3480px;
+}
+
+.ea.lizard {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -3480px;
+}
+
+.ea.lock {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -3480px;
+}
+
+.ea.lock_with_ink_pen {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -3480px;
+}
+
+.ea.lollipop {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -3480px;
+}
+
+.ea.loop {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -3480px;
+}
+
+.ea.loud_sound {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -3480px;
+}
+
+.ea.loudspeaker {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -3480px;
+}
+
+.ea.love_hotel {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -3480px;
+}
+
+.ea.love_letter {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -3480px;
+}
+
+.ea.low_brightness {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -3480px;
+}
+
+.ea.lower-left-ballpoint-pen {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -3480px;
+}
+
+.ea.lower-left-crayon {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -3480px;
+}
+
+.ea.lower-left-fountain-pen {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -3480px;
+}
+
+.ea.lower-left-paintbrush {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -3480px;
+}
+
+.ea.lying-face {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -3480px;
+}
+
+.ea.m {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -3480px;
+}
+
+.ea.mag {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -3480px;
+}
+
+.ea.mag_right {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -3480px;
+}
+
+.ea.mage {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -3480px;
+}
+
+.ea.mahjong {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -3480px;
+}
+
+.ea.mailbox {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -3480px;
+}
+
+.ea.mailbox_closed {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -3480px;
+}
+
+.ea.mailbox_with_mail {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -3480px;
+}
+
+.ea.mailbox_with_no_mail {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -3480px;
+}
+
+.ea.male-artist {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -3480px;
+}
+
+.ea.male-astronaut {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -3480px;
+}
+
+.ea.male-construction-worker {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -3480px;
+}
+
+.ea.male-cook {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -3480px;
+}
+
+.ea.male-factory-worker {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -3480px;
+}
+
+.ea.male-farmer {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px 0px;
+}
+
+.ea.male-firefighter {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -120px;
+}
+
+.ea.male-guard {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -240px;
+}
+
+.ea.male-health-worker {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -360px;
+}
+
+.ea.male-judge {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -480px;
+}
+
+.ea.male-mechanic {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -600px;
+}
+
+.ea.male-office-worker {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -720px;
+}
+
+.ea.male-pilot {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -840px;
+}
+
+.ea.male-police-officer {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -960px;
+}
+
+.ea.male-scientist {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -1080px;
+}
+
+.ea.male-singer {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -1200px;
+}
+
+.ea.male-sleuth {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -1320px;
+}
+
+.ea.male-student {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -1440px;
+}
+
+.ea.male-technologist {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -1560px;
+}
+
+.ea.man-biking {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -1680px;
+}
+
+.ea.man-bowing-deeply {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -1800px;
+}
+
+.ea.man-climbing {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -1920px;
+}
+
+.ea.man-dancing {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -2040px;
+}
+
+.ea.man-doing-cartwheel {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -2160px;
+}
+
+.ea.man-elf {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -2280px;
+}
+
+.ea.man-facepalming {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -2400px;
+}
+
+.ea.man-fairy {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -2520px;
+}
+
+.ea.man-frowning {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -2640px;
+}
+
+.ea.man-genie {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -2760px;
+}
+
+.ea.man-gesturing-not-ok {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -2880px;
+}
+
+.ea.man-gesturing-ok {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -3000px;
+}
+
+.ea.man-getting-face-massage {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -3120px;
+}
+
+.ea.man-getting-haircut {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -3240px;
+}
+
+.ea.man-golfing {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -3360px;
+}
+
+.ea.man-in-business-suit-levitating {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -3480px;
+}
+
+.ea.man-in-lotus-position {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -3600px;
+}
+
+.ea.man-in-steamy-room {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -3600px;
+}
+
+.ea.man-in-tuxedo {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -3600px;
+}
+
+.ea.man-juggling {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -3600px;
+}
+
+.ea.man-mage {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -3600px;
+}
+
+.ea.man-mountain-biking {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -3600px;
+}
+
+.ea.man-playing-handball {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -3600px;
+}
+
+.ea.man-playing-water-polo {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -3600px;
+}
+
+.ea.man-pouting {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -3600px;
+}
+
+.ea.man-raising-hand {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -3600px;
+}
+
+.ea.man-rowing-boat {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -3600px;
+}
+
+.ea.man-running {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -3600px;
+}
+
+.ea.man-shrugging {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -3600px;
+}
+
+.ea.man-surfing {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -3600px;
+}
+
+.ea.man-swimming {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -3600px;
+}
+
+.ea.man-tipping-hand {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -3600px;
+}
+
+.ea.man-vampire {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -3600px;
+}
+
+.ea.man-walking {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -3600px;
+}
+
+.ea.man-wearing-turban {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -3600px;
+}
+
+.ea.man-weight-lifting {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -3600px;
+}
+
+.ea.man-with-ball {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -3600px;
+}
+
+.ea.man-zombie {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -3600px;
+}
+
+.ea.man {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -3600px;
+}
+
+.ea.man_with_gua_pi_mao {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -3600px;
+}
+
+.ea.man_with_turban {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -3600px;
+}
+
+.ea.mans_shoe {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -3600px;
+}
+
+.ea.mantelpiece-clock {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -3600px;
+}
+
+.ea.maple_leaf {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -3600px;
+}
+
+.ea.martial-arts-uniform {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -3600px;
+}
+
+.ea.mask {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -3600px;
+}
+
+.ea.massage {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -3600px;
+}
+
+.ea.meat_on_bone {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px 0px;
+}
+
+.ea.mega {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -120px;
+}
+
+.ea.melon {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -240px;
+}
+
+.ea.memo {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -360px;
+}
+
+.ea.men-with-bunny-ears-partying {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -480px;
+}
+
+.ea.men-wrestling {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -600px;
+}
+
+.ea.menorah-with-nine-branches {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -720px;
+}
+
+.ea.mens {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -840px;
+}
+
+.ea.merman {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -960px;
+}
+
+.ea.merperson {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -1080px;
+}
+
+.ea.merwoman {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -1200px;
+}
+
+.ea.metro {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -1320px;
+}
+
+.ea.microphone {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -1440px;
+}
+
+.ea.microscope {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -1560px;
+}
+
+.ea.military-medal {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -1680px;
+}
+
+.ea.milky_way {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -1800px;
+}
+
+.ea.minibus {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -1920px;
+}
+
+.ea.minidisc {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -2040px;
+}
+
+.ea.mobile_phone_off {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -2160px;
+}
+
+.ea.money-mouth-face {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -2280px;
+}
+
+.ea.money_with_wings {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -2400px;
+}
+
+.ea.moneybag {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -2520px;
+}
+
+.ea.monkey {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -2640px;
+}
+
+.ea.monkey_face {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -2760px;
+}
+
+.ea.monorail {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -2880px;
+}
+
+.ea.moon {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -3000px;
+}
+
+.ea.mortar_board {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -3120px;
+}
+
+.ea.mosque {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -3240px;
+}
+
+.ea.mother-christmas {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -3360px;
+}
+
+.ea.motor-boat {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -3480px;
+}
+
+.ea.motor-scooter {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -3600px;
+}
+
+.ea.mount_fuji {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -3720px;
+}
+
+.ea.mountain {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -3720px;
+}
+
+.ea.mountain_bicyclist {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -3720px;
+}
+
+.ea.mountain_cableway {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -3720px;
+}
+
+.ea.mountain_railway {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -3720px;
+}
+
+.ea.mouse {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -3720px;
+}
+
+.ea.mouse2 {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -3720px;
+}
+
+.ea.movie_camera {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -3720px;
+}
+
+.ea.moyai {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -3720px;
+}
+
+.ea.muscle {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -3720px;
+}
+
+.ea.mushroom {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -3720px;
+}
+
+.ea.musical_keyboard {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -3720px;
+}
+
+.ea.musical_note {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -3720px;
+}
+
+.ea.musical_score {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -3720px;
+}
+
+.ea.mute {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -3720px;
+}
+
+.ea.nail_care {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -3720px;
+}
+
+.ea.name_badge {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -3720px;
+}
+
+.ea.national-park {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -3720px;
+}
+
+.ea.nauseated-face {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -3720px;
+}
+
+.ea.necktie {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -3720px;
+}
+
+.ea.negative_squared_cross_mark {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -3720px;
+}
+
+.ea.nerd-face {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -3720px;
+}
+
+.ea.neutral_face {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -3720px;
+}
+
+.ea.new {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -3720px;
+}
+
+.ea.new_moon {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -3720px;
+}
+
+.ea.new_moon_with_face {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -3720px;
+}
+
+.ea.newspaper {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -3720px;
+}
+
+.ea.ng {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -3720px;
+}
+
+.ea.night_with_stars {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -3720px;
+}
+
+.ea.nine {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -3720px;
+}
+
+.ea.no_bell {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -3720px;
+}
+
+.ea.no_bicycles {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -3720px;
+}
+
+.ea.no_entry {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px 0px;
+}
+
+.ea.no_entry_sign {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -120px;
+}
+
+.ea.no_good {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -240px;
+}
+
+.ea.no_mouth {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -360px;
+}
+
+.ea.no_pedestrians {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -480px;
+}
+
+.ea.no_smoking {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -600px;
+}
+
+.ea.non-potable_water {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -720px;
+}
+
+.ea.nose {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -840px;
+}
+
+.ea.notebook {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -960px;
+}
+
+.ea.notebook_with_decorative_cover {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -1080px;
+}
+
+.ea.notes {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -1200px;
+}
+
+.ea.nut_and_bolt {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -1320px;
+}
+
+.ea.o {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -1440px;
+}
+
+.ea.o2 {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -1560px;
+}
+
+.ea.ocean {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -1680px;
+}
+
+.ea.octagonal-sign {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -1800px;
+}
+
+.ea.octopus {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -1920px;
+}
+
+.ea.oden {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -2040px;
+}
+
+.ea.office {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -2160px;
+}
+
+.ea.oil-drum {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -2280px;
+}
+
+.ea.ok {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -2400px;
+}
+
+.ea.ok_hand {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -2520px;
+}
+
+.ea.ok_woman {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -2640px;
+}
+
+.ea.old-key {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -2760px;
+}
+
+.ea.older_man {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -2880px;
+}
+
+.ea.older_woman {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -3000px;
+}
+
+.ea.om-symbol {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -3120px;
+}
+
+.ea.on {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -3240px;
+}
+
+.ea.oncoming_automobile {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -3360px;
+}
+
+.ea.oncoming_bus {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -3480px;
+}
+
+.ea.oncoming_police_car {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -3600px;
+}
+
+.ea.oncoming_taxi {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -3720px;
+}
+
+.ea.one {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -3840px;
+}
+
+.ea.open_file_folder {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -3840px;
+}
+
+.ea.open_hands {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -3840px;
+}
+
+.ea.open_mouth {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -3840px;
+}
+
+.ea.ophiuchus {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -3840px;
+}
+
+.ea.orange-heart {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -3840px;
+}
+
+.ea.orange_book {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -3840px;
+}
+
+.ea.orthodox-cross {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -3840px;
+}
+
+.ea.outbox_tray {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -3840px;
+}
+
+.ea.owl {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -3840px;
+}
+
+.ea.ox {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -3840px;
+}
+
+.ea.package {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -3840px;
+}
+
+.ea.page_facing_up {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -3840px;
+}
+
+.ea.page_with_curl {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -3840px;
+}
+
+.ea.pager {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -3840px;
+}
+
+.ea.palm_tree {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -3840px;
+}
+
+.ea.palms-up-together {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -3840px;
+}
+
+.ea.pancakes {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -3840px;
+}
+
+.ea.panda_face {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -3840px;
+}
+
+.ea.paperclip {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -3840px;
+}
+
+.ea.parking {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -3840px;
+}
+
+.ea.part_alternation_mark {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -3840px;
+}
+
+.ea.partly_sunny {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -3840px;
+}
+
+.ea.passenger-ship {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -3840px;
+}
+
+.ea.passport_control {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -3840px;
+}
+
+.ea.peace-symbol {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -3840px;
+}
+
+.ea.peach {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -3840px;
+}
+
+.ea.peanuts {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -3840px;
+}
+
+.ea.pear {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -3840px;
+}
+
+.ea.pencil2 {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -3840px;
+}
+
+.ea.penguin {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -3840px;
+}
+
+.ea.pensive {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -3840px;
+}
+
+.ea.performing_arts {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -3840px;
+}
+
+.ea.persevere {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px 0px;
+}
+
+.ea.person-climbing {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -120px;
+}
+
+.ea.person-doing-cartwheel {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -240px;
+}
+
+.ea.person-in-lotus-position {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -360px;
+}
+
+.ea.person-in-steamy-room {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -480px;
+}
+
+.ea.person-with-ball {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -600px;
+}
+
+.ea.person-with-headscarf {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -720px;
+}
+
+.ea.person_frowning {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -840px;
+}
+
+.ea.person_with_blond_hair {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -960px;
+}
+
+.ea.person_with_pouting_face {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -1080px;
+}
+
+.ea.phone {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -1200px;
+}
+
+.ea.pick {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -1320px;
+}
+
+.ea.pie {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -1440px;
+}
+
+.ea.pig {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -1560px;
+}
+
+.ea.pig2 {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -1680px;
+}
+
+.ea.pig_nose {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -1800px;
+}
+
+.ea.pill {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -1920px;
+}
+
+.ea.pineapple {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -2040px;
+}
+
+.ea.pisces {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -2160px;
+}
+
+.ea.pizza {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -2280px;
+}
+
+.ea.place-of-worship {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -2400px;
+}
+
+.ea.point_down {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -2520px;
+}
+
+.ea.point_left {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -2640px;
+}
+
+.ea.point_right {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -2760px;
+}
+
+.ea.point_up {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -2880px;
+}
+
+.ea.point_up_2 {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -3000px;
+}
+
+.ea.police_car {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -3120px;
+}
+
+.ea.poodle {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -3240px;
+}
+
+.ea.popcorn {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -3360px;
+}
+
+.ea.post_office {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -3480px;
+}
+
+.ea.postal_horn {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -3600px;
+}
+
+.ea.postbox {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -3720px;
+}
+
+.ea.potable_water {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -3840px;
+}
+
+.ea.potato {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -3960px;
+}
+
+.ea.pouch {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -3960px;
+}
+
+.ea.poultry_leg {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -3960px;
+}
+
+.ea.pound {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -3960px;
+}
+
+.ea.pouting_cat {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -3960px;
+}
+
+.ea.pray {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -3960px;
+}
+
+.ea.prayer-beads {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -3960px;
+}
+
+.ea.pregnant-woman {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -3960px;
+}
+
+.ea.pretzel {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -3960px;
+}
+
+.ea.prince {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -3960px;
+}
+
+.ea.princess {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -3960px;
+}
+
+.ea.printer {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -3960px;
+}
+
+.ea.purple_heart {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -3960px;
+}
+
+.ea.purse {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -3960px;
+}
+
+.ea.pushpin {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -3960px;
+}
+
+.ea.put_litter_in_its_place {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -3960px;
+}
+
+.ea.question {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -3960px;
+}
+
+.ea.rabbit {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -3960px;
+}
+
+.ea.rabbit2 {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -3960px;
+}
+
+.ea.racehorse {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -3960px;
+}
+
+.ea.racing-car {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -3960px;
+}
+
+.ea.racing-motorcycle {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -3960px;
+}
+
+.ea.radio {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -3960px;
+}
+
+.ea.radioactive-sign {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -3960px;
+}
+
+.ea.rage {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -3960px;
+}
+
+.ea.railway-track {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -3960px;
+}
+
+.ea.railway_car {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -3960px;
+}
+
+.ea.rainbow-flag {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -3960px;
+}
+
+.ea.rainbow {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -3960px;
+}
+
+.ea.raised-back-of-hand {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -3960px;
+}
+
+.ea.raised-hand-with-fingers-splayed {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -3960px;
+}
+
+.ea.raised-hand-with-part-between-middle-and-ring-fingers {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -3960px;
+}
+
+.ea.raised_hands {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -3960px;
+}
+
+.ea.raising_hand {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -3960px;
+}
+
+.ea.ram {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px 0px;
+}
+
+.ea.ramen {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -120px;
+}
+
+.ea.rat {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -240px;
+}
+
+.ea.recycle {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -360px;
+}
+
+.ea.red_circle {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -480px;
+}
+
+.ea.registered {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -600px;
+}
+
+.ea.relaxed {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -720px;
+}
+
+.ea.relieved {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -840px;
+}
+
+.ea.reminder-ribbon {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -960px;
+}
+
+.ea.repeat {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -1080px;
+}
+
+.ea.repeat_one {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -1200px;
+}
+
+.ea.restroom {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -1320px;
+}
+
+.ea.reversed-hand-with-middle-finger-extended {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -1440px;
+}
+
+.ea.revolving_hearts {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -1560px;
+}
+
+.ea.rewind {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -1680px;
+}
+
+.ea.rhinoceros {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -1800px;
+}
+
+.ea.ribbon {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -1920px;
+}
+
+.ea.rice {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -2040px;
+}
+
+.ea.rice_ball {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -2160px;
+}
+
+.ea.rice_cracker {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -2280px;
+}
+
+.ea.rice_scene {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -2400px;
+}
+
+.ea.right-anger-bubble {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -2520px;
+}
+
+.ea.right-facing-fist {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -2640px;
+}
+
+.ea.ring {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -2760px;
+}
+
+.ea.robot-face {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -2880px;
+}
+
+.ea.rocket {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -3000px;
+}
+
+.ea.rolled-up-newspaper {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -3120px;
+}
+
+.ea.roller_coaster {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -3240px;
+}
+
+.ea.rolling-on-the-floor-laughing {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -3360px;
+}
+
+.ea.rooster {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -3480px;
+}
+
+.ea.rose {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -3600px;
+}
+
+.ea.rosette {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -3720px;
+}
+
+.ea.rotating_light {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -3840px;
+}
+
+.ea.round_pushpin {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -3960px;
+}
+
+.ea.rowboat {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -4080px;
+}
+
+.ea.ru {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -4080px;
+}
+
+.ea.rugby_football {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -4080px;
+}
+
+.ea.runner {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -4080px;
+}
+
+.ea.running_shirt_with_sash {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -4080px;
+}
+
+.ea.sa {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -4080px;
+}
+
+.ea.sagittarius {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -4080px;
+}
+
+.ea.sake {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -4080px;
+}
+
+.ea.sandal {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -4080px;
+}
+
+.ea.sandwich {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -4080px;
+}
+
+.ea.santa {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -4080px;
+}
+
+.ea.satellite {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -4080px;
+}
+
+.ea.sauropod {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -4080px;
+}
+
+.ea.saxophone {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -4080px;
+}
+
+.ea.scales {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -4080px;
+}
+
+.ea.scarf {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -4080px;
+}
+
+.ea.school {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -4080px;
+}
+
+.ea.school_satchel {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -4080px;
+}
+
+.ea.scissors {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -4080px;
+}
+
+.ea.scooter {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -4080px;
+}
+
+.ea.scorpion {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -4080px;
+}
+
+.ea.scorpius {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -4080px;
+}
+
+.ea.scream {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -4080px;
+}
+
+.ea.scream_cat {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -4080px;
+}
+
+.ea.scroll {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -4080px;
+}
+
+.ea.seat {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -4080px;
+}
+
+.ea.second-place-medal {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -4080px;
+}
+
+.ea.secret {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -4080px;
+}
+
+.ea.see_no_evil {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -4080px;
+}
+
+.ea.seedling {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -4080px;
+}
+
+.ea.selfie {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -4080px;
+}
+
+.ea.serious-face-with-symbols-covering-mouth {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -4080px;
+}
+
+.ea.seven {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -4080px;
+}
+
+.ea.shallow-pan-of-food {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -4080px;
+}
+
+.ea.shamrock {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -4080px;
+}
+
+.ea.shark {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px 0px;
+}
+
+.ea.shaved_ice {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -120px;
+}
+
+.ea.sheep {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -240px;
+}
+
+.ea.shell {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -360px;
+}
+
+.ea.shield {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -480px;
+}
+
+.ea.shinto-shrine {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -600px;
+}
+
+.ea.ship {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -720px;
+}
+
+.ea.shirt {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -840px;
+}
+
+.ea.shocked-face-with-exploding-head {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -960px;
+}
+
+.ea.shopping-bags {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -1080px;
+}
+
+.ea.shower {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -1200px;
+}
+
+.ea.shrimp {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -1320px;
+}
+
+.ea.shrug {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -1440px;
+}
+
+.ea.sign-of-the-horns {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -1560px;
+}
+
+.ea.signal_strength {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -1680px;
+}
+
+.ea.six {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -1800px;
+}
+
+.ea.six_pointed_star {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -1920px;
+}
+
+.ea.ski {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -2040px;
+}
+
+.ea.skier {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -2160px;
+}
+
+.ea.skull-and-crossbones {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -2280px;
+}
+
+.ea.skull {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -2400px;
+}
+
+.ea.sled {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -2520px;
+}
+
+.ea.sleeping-accommodation {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -2640px;
+}
+
+.ea.sleeping {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -2760px;
+}
+
+.ea.sleepy {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -2880px;
+}
+
+.ea.sleuth-or-spy {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -3000px;
+}
+
+.ea.slightly-frowning-face {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -3120px;
+}
+
+.ea.slightly-smiling-face {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -3240px;
+}
+
+.ea.slot_machine {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -3360px;
+}
+
+.ea.small-airplane {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -3480px;
+}
+
+.ea.small_blue_diamond {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -3600px;
+}
+
+.ea.small_orange_diamond {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -3720px;
+}
+
+.ea.small_red_triangle {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -3840px;
+}
+
+.ea.small_red_triangle_down {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -3960px;
+}
+
+.ea.smile {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -4080px;
+}
+
+.ea.smile_cat {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -4200px;
+}
+
+.ea.smiley {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -4200px;
+}
+
+.ea.smiley_cat {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -4200px;
+}
+
+.ea.smiling-face-with-smiling-eyes-and-hand-covering-mouth {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -4200px;
+}
+
+.ea.smiling_imp {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -4200px;
+}
+
+.ea.smirk {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -4200px;
+}
+
+.ea.smirk_cat {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -4200px;
+}
+
+.ea.smoking {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -4200px;
+}
+
+.ea.snail {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -4200px;
+}
+
+.ea.snake {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -4200px;
+}
+
+.ea.sneezing-face {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -4200px;
+}
+
+.ea.snow-capped-mountain {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -4200px;
+}
+
+.ea.snowboarder {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -4200px;
+}
+
+.ea.snowflake {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -4200px;
+}
+
+.ea.snowman {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -4200px;
+}
+
+.ea.sob {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -4200px;
+}
+
+.ea.soccer {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -4200px;
+}
+
+.ea.socks {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -4200px;
+}
+
+.ea.soon {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -4200px;
+}
+
+.ea.sos {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -4200px;
+}
+
+.ea.sound {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -4200px;
+}
+
+.ea.space_invader {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -4200px;
+}
+
+.ea.spades {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -4200px;
+}
+
+.ea.spaghetti {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -4200px;
+}
+
+.ea.sparkle {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -4200px;
+}
+
+.ea.sparkler {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -4200px;
+}
+
+.ea.sparkles {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -4200px;
+}
+
+.ea.sparkling_heart {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -4200px;
+}
+
+.ea.speak_no_evil {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -4200px;
+}
+
+.ea.speaker {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -4200px;
+}
+
+.ea.speaking-head-in-silhouette {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -4200px;
+}
+
+.ea.speech_balloon {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -4200px;
+}
+
+.ea.speedboat {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -4200px;
+}
+
+.ea.spider-web {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -4200px;
+}
+
+.ea.spider {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -4200px;
+}
+
+.ea.spiral-calendar-pad {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -4200px;
+}
+
+.ea.spiral-note-pad {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px 0px;
+}
+
+.ea.spoon {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -120px;
+}
+
+.ea.sports-medal {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -240px;
+}
+
+.ea.squid {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -360px;
+}
+
+.ea.stadium {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -480px;
+}
+
+.ea.star-and-crescent {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -600px;
+}
+
+.ea.star-of-david {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -720px;
+}
+
+.ea.star {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -840px;
+}
+
+.ea.star2 {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -960px;
+}
+
+.ea.stars {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -1080px;
+}
+
+.ea.station {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -1200px;
+}
+
+.ea.statue_of_liberty {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -1320px;
+}
+
+.ea.steam_locomotive {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -1440px;
+}
+
+.ea.stew {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -1560px;
+}
+
+.ea.stopwatch {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -1680px;
+}
+
+.ea.straight_ruler {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -1800px;
+}
+
+.ea.strawberry {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -1920px;
+}
+
+.ea.stuck_out_tongue {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -2040px;
+}
+
+.ea.stuck_out_tongue_closed_eyes {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -2160px;
+}
+
+.ea.stuck_out_tongue_winking_eye {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -2280px;
+}
+
+.ea.studio-microphone {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -2400px;
+}
+
+.ea.stuffed-flatbread {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -2520px;
+}
+
+.ea.sun_with_face {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -2640px;
+}
+
+.ea.sunflower {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -2760px;
+}
+
+.ea.sunglasses {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -2880px;
+}
+
+.ea.sunny {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -3000px;
+}
+
+.ea.sunrise {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -3120px;
+}
+
+.ea.sunrise_over_mountains {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -3240px;
+}
+
+.ea.surfer {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -3360px;
+}
+
+.ea.sushi {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -3480px;
+}
+
+.ea.suspension_railway {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -3600px;
+}
+
+.ea.sweat {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -3720px;
+}
+
+.ea.sweat_drops {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -3840px;
+}
+
+.ea.sweat_smile {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -3960px;
+}
+
+.ea.sweet_potato {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -4080px;
+}
+
+.ea.swimmer {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -4200px;
+}
+
+.ea.symbols {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -4320px;
+}
+
+.ea.synagogue {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -4320px;
+}
+
+.ea.syringe {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -4320px;
+}
+
+.ea.t-rex {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -4320px;
+}
+
+.ea.table-tennis-paddle-and-ball {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -4320px;
+}
+
+.ea.taco {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -4320px;
+}
+
+.ea.tada {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -4320px;
+}
+
+.ea.takeout-box {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -4320px;
+}
+
+.ea.tanabata_tree {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -4320px;
+}
+
+.ea.tangerine {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -4320px;
+}
+
+.ea.taurus {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -4320px;
+}
+
+.ea.taxi {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -4320px;
+}
+
+.ea.tea {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -4320px;
+}
+
+.ea.telephone_receiver {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -4320px;
+}
+
+.ea.telescope {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -4320px;
+}
+
+.ea.tennis {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -4320px;
+}
+
+.ea.tent {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -4320px;
+}
+
+.ea.thermometer {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -4320px;
+}
+
+.ea.thinking-face {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -4320px;
+}
+
+.ea.third-place-medal {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -4320px;
+}
+
+.ea.thought_balloon {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -4320px;
+}
+
+.ea.three-button-mouse {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -4320px;
+}
+
+.ea.three {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -4320px;
+}
+
+.ea.thunder-cloud-and-rain {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -4320px;
+}
+
+.ea.ticket {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -4320px;
+}
+
+.ea.tiger {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -4320px;
+}
+
+.ea.tiger2 {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -4320px;
+}
+
+.ea.timer-clock {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -4320px;
+}
+
+.ea.tired_face {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -4320px;
+}
+
+.ea.tm {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -4320px;
+}
+
+.ea.toilet {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -4320px;
+}
+
+.ea.tokyo_tower {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -4320px;
+}
+
+.ea.tomato {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -4320px;
+}
+
+.ea.tongue {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -4320px;
+}
+
+.ea.top {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -4320px;
+}
+
+.ea.tophat {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -4320px;
+}
+
+.ea.trackball {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -4320px;
+}
+
+.ea.tractor {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px 0px;
+}
+
+.ea.traffic_light {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -120px;
+}
+
+.ea.train {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -240px;
+}
+
+.ea.train2 {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -360px;
+}
+
+.ea.tram {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -480px;
+}
+
+.ea.triangular_flag_on_post {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -600px;
+}
+
+.ea.triangular_ruler {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -720px;
+}
+
+.ea.trident {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -840px;
+}
+
+.ea.triumph {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -960px;
+}
+
+.ea.trolleybus {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -1080px;
+}
+
+.ea.trophy {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -1200px;
+}
+
+.ea.tropical_drink {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -1320px;
+}
+
+.ea.tropical_fish {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -1440px;
+}
+
+.ea.truck {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -1560px;
+}
+
+.ea.trumpet {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -1680px;
+}
+
+.ea.tulip {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -1800px;
+}
+
+.ea.tumbler-glass {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -1920px;
+}
+
+.ea.turkey {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -2040px;
+}
+
+.ea.turtle {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -2160px;
+}
+
+.ea.tv {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -2280px;
+}
+
+.ea.twisted_rightwards_arrows {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -2400px;
+}
+
+.ea.two {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -2520px;
+}
+
+.ea.two_hearts {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -2640px;
+}
+
+.ea.two_men_holding_hands {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -2760px;
+}
+
+.ea.two_women_holding_hands {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -2880px;
+}
+
+.ea.u5272 {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -3000px;
+}
+
+.ea.u5408 {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -3120px;
+}
+
+.ea.u55b6 {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -3240px;
+}
+
+.ea.u6307 {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -3360px;
+}
+
+.ea.u6708 {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -3480px;
+}
+
+.ea.u6709 {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -3600px;
+}
+
+.ea.u6e80 {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -3720px;
+}
+
+.ea.u7121 {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -3840px;
+}
+
+.ea.u7533 {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -3960px;
+}
+
+.ea.u7981 {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -4080px;
+}
+
+.ea.u7a7a {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -4200px;
+}
+
+.ea.umbrella-on-ground {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -4320px;
+}
+
+.ea.umbrella {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -4440px;
+}
+
+.ea.unamused {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -4440px;
+}
+
+.ea.underage {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -4440px;
+}
+
+.ea.unicorn-face {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -4440px;
+}
+
+.ea.unlock {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -4440px;
+}
+
+.ea.up {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -4440px;
+}
+
+.ea.upside-down-face {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -4440px;
+}
+
+.ea.us {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -4440px;
+}
+
+.ea.v {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -4440px;
+}
+
+.ea.vampire {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -4440px;
+}
+
+.ea.vertical_traffic_light {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -4440px;
+}
+
+.ea.vhs {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -4440px;
+}
+
+.ea.vibration_mode {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -4440px;
+}
+
+.ea.video_camera {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -4440px;
+}
+
+.ea.video_game {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -4440px;
+}
+
+.ea.violin {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -4440px;
+}
+
+.ea.virgo {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -4440px;
+}
+
+.ea.volcano {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -4440px;
+}
+
+.ea.volleyball {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -4440px;
+}
+
+.ea.vs {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -4440px;
+}
+
+.ea.walking {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -4440px;
+}
+
+.ea.waning_crescent_moon {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -4440px;
+}
+
+.ea.waning_gibbous_moon {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -4440px;
+}
+
+.ea.warning {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -4440px;
+}
+
+.ea.wastebasket {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -4440px;
+}
+
+.ea.watch {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -4440px;
+}
+
+.ea.water-polo {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -4440px;
+}
+
+.ea.water_buffalo {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -4440px;
+}
+
+.ea.watermelon {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -4440px;
+}
+
+.ea.wave {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -4440px;
+}
+
+.ea.waving-black-flag {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -4440px;
+}
+
+.ea.waving-white-flag {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -4440px;
+}
+
+.ea.waxing_crescent_moon {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -4440px;
+}
+
+.ea.wc {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -4440px;
+}
+
+.ea.weary {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -4440px;
+}
+
+.ea.wedding {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -4440px;
+}
+
+.ea.weight-lifter {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -4440px;
+}
+
+.ea.whale {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -4440px;
+}
+
+.ea.whale2 {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px 0px;
+}
+
+.ea.wheel-of-dharma {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -120px;
+}
+
+.ea.wheelchair {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -240px;
+}
+
+.ea.white-frowning-face {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -360px;
+}
+
+.ea.white-sun-behind-cloud-with-rain {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -480px;
+}
+
+.ea.white-sun-behind-cloud {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -600px;
+}
+
+.ea.white-sun-with-small-cloud {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -720px;
+}
+
+.ea.white_check_mark {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -840px;
+}
+
+.ea.white_circle {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -960px;
+}
+
+.ea.white_flower {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -1080px;
+}
+
+.ea.white_large_square {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -1200px;
+}
+
+.ea.white_medium_small_square {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -1320px;
+}
+
+.ea.white_medium_square {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -1440px;
+}
+
+.ea.white_small_square {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -1560px;
+}
+
+.ea.white_square_button {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -1680px;
+}
+
+.ea.wilted-flower {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -1800px;
+}
+
+.ea.wind-blowing-face {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -1920px;
+}
+
+.ea.wind_chime {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -2040px;
+}
+
+.ea.wine_glass {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -2160px;
+}
+
+.ea.wink {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -2280px;
+}
+
+.ea.wolf {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -2400px;
+}
+
+.ea.woman-biking {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -2520px;
+}
+
+.ea.woman-bowing-deeply {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -2640px;
+}
+
+.ea.woman-climbing {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -2760px;
+}
+
+.ea.woman-doing-cartwheel {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -2880px;
+}
+
+.ea.woman-elf {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -3000px;
+}
+
+.ea.woman-facepalming {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -3120px;
+}
+
+.ea.woman-fairy {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -3240px;
+}
+
+.ea.woman-frowning {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -3360px;
+}
+
+.ea.woman-genie {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -3480px;
+}
+
+.ea.woman-gesturing-not-ok {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -3600px;
+}
+
+.ea.woman-gesturing-ok {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -3720px;
+}
+
+.ea.woman-getting-face-massage {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -3840px;
+}
+
+.ea.woman-getting-haircut {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -3960px;
+}
+
+.ea.woman-golfing {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -4080px;
+}
+
+.ea.woman-in-lotus-position {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -4200px;
+}
+
+.ea.woman-in-steamy-room {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -4320px;
+}
+
+.ea.woman-juggling {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -4440px;
+}
+
+.ea.woman-mage {
+  width: 120px;
+  height: 120px;
+  background-position: 0px -4560px;
+}
+
+.ea.woman-mountain-biking {
+  width: 120px;
+  height: 120px;
+  background-position: -120px -4560px;
+}
+
+.ea.woman-playing-handball {
+  width: 120px;
+  height: 120px;
+  background-position: -240px -4560px;
+}
+
+.ea.woman-playing-water-polo {
+  width: 120px;
+  height: 120px;
+  background-position: -360px -4560px;
+}
+
+.ea.woman-pouting {
+  width: 120px;
+  height: 120px;
+  background-position: -480px -4560px;
+}
+
+.ea.woman-raising-hand {
+  width: 120px;
+  height: 120px;
+  background-position: -600px -4560px;
+}
+
+.ea.woman-rowing-boat {
+  width: 120px;
+  height: 120px;
+  background-position: -720px -4560px;
+}
+
+.ea.woman-running {
+  width: 120px;
+  height: 120px;
+  background-position: -840px -4560px;
+}
+
+.ea.woman-shrugging {
+  width: 120px;
+  height: 120px;
+  background-position: -960px -4560px;
+}
+
+.ea.woman-surfing {
+  width: 120px;
+  height: 120px;
+  background-position: -1080px -4560px;
+}
+
+.ea.woman-swimming {
+  width: 120px;
+  height: 120px;
+  background-position: -1200px -4560px;
+}
+
+.ea.woman-tipping-hand {
+  width: 120px;
+  height: 120px;
+  background-position: -1320px -4560px;
+}
+
+.ea.woman-vampire {
+  width: 120px;
+  height: 120px;
+  background-position: -1440px -4560px;
+}
+
+.ea.woman-walking {
+  width: 120px;
+  height: 120px;
+  background-position: -1560px -4560px;
+}
+
+.ea.woman-wearing-turban {
+  width: 120px;
+  height: 120px;
+  background-position: -1680px -4560px;
+}
+
+.ea.woman-weight-lifting {
+  width: 120px;
+  height: 120px;
+  background-position: -1800px -4560px;
+}
+
+.ea.woman-with-ball {
+  width: 120px;
+  height: 120px;
+  background-position: -1920px -4560px;
+}
+
+.ea.woman-zombie {
+  width: 120px;
+  height: 120px;
+  background-position: -2040px -4560px;
+}
+
+.ea.woman {
+  width: 120px;
+  height: 120px;
+  background-position: -2160px -4560px;
+}
+
+.ea.womans_clothes {
+  width: 120px;
+  height: 120px;
+  background-position: -2280px -4560px;
+}
+
+.ea.womans_hat {
+  width: 120px;
+  height: 120px;
+  background-position: -2400px -4560px;
+}
+
+.ea.women-with-bunny-ears-partying {
+  width: 120px;
+  height: 120px;
+  background-position: -2520px -4560px;
+}
+
+.ea.women-wrestling {
+  width: 120px;
+  height: 120px;
+  background-position: -2640px -4560px;
+}
+
+.ea.womens {
+  width: 120px;
+  height: 120px;
+  background-position: -2760px -4560px;
+}
+
+.ea.world-map {
+  width: 120px;
+  height: 120px;
+  background-position: -2880px -4560px;
+}
+
+.ea.worried {
+  width: 120px;
+  height: 120px;
+  background-position: -3000px -4560px;
+}
+
+.ea.wrench {
+  width: 120px;
+  height: 120px;
+  background-position: -3120px -4560px;
+}
+
+.ea.wrestlers {
+  width: 120px;
+  height: 120px;
+  background-position: -3240px -4560px;
+}
+
+.ea.writing-hand {
+  width: 120px;
+  height: 120px;
+  background-position: -3360px -4560px;
+}
+
+.ea.x {
+  width: 120px;
+  height: 120px;
+  background-position: -3480px -4560px;
+}
+
+.ea.yellow_heart {
+  width: 120px;
+  height: 120px;
+  background-position: -3600px -4560px;
+}
+
+.ea.yen {
+  width: 120px;
+  height: 120px;
+  background-position: -3720px -4560px;
+}
+
+.ea.yin-yang {
+  width: 120px;
+  height: 120px;
+  background-position: -3840px -4560px;
+}
+
+.ea.yum {
+  width: 120px;
+  height: 120px;
+  background-position: -3960px -4560px;
+}
+
+.ea.zap {
+  width: 120px;
+  height: 120px;
+  background-position: -4080px -4560px;
+}
+
+.ea.zebra-face {
+  width: 120px;
+  height: 120px;
+  background-position: -4200px -4560px;
+}
+
+.ea.zero {
+  width: 120px;
+  height: 120px;
+  background-position: -4320px -4560px;
+}
+
+.ea.zipper-mouth-face {
+  width: 120px;
+  height: 120px;
+  background-position: -4440px -4560px;
+}
+
+.ea.zombie {
+  width: 120px;
+  height: 120px;
+  background-position: -4560px -4560px;
+}
+
+.ea.zzz {
+  width: 120px;
+  height: 120px;
+  background-position: -4680px 0px;
+}
+
